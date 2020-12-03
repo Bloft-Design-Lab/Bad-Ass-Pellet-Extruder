@@ -104,13 +104,11 @@ Here's a blank template to get started:
 * Automatic material transport and dispensing
 * High flow cooling for the print area
 
-### Prerequisites
+### The compression screw
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+The compression screw is the key element of a pellet extruder. It differs from a regular auger bit by having a flute depth that decreases top the tip. The compression screw is disected into three different zones: the feed zone, the compression zone and the metering zone. The screw adds shear to the plastic granulate and accelerates the melting process. These compression screws are difficult to manufacture, so we are going to cut corners and we will use the [RobotDigg 16 mm extruder screw, barrel and nozzle](https://www.robotdigg.com/product/1691/16mm-or-20mm-extruder-screw,-barrel-n-nozzle) for now.
+
+The RobotDigg barrel has already a flange with standard Nema 23 attachment holes and it comes with an exchangeable nozzle.
 
 ## Benchmark
 
