@@ -39,7 +39,7 @@
   <h3 align="center">Bad Ass Pellet Extruder</h3>
 
   <p align="center">
-    project_description
+    A Hangprinter compatible pellet extruder for large scale FGF-printing.
     <br />
     <a href="https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/"><strong>Explore the docs »</strong></a>
     <br />
@@ -60,12 +60,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#design-drivers">Design Drivers</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -87,23 +84,25 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+The Hangprinter project by Torbjørn Ludvigsen has developed a promising and affordable concept for a large scale cable-driven 3D-printer, that has the potential to serve as the framework for an entirely new class of 3D-printers, enabling distributed local manufacturing of large end use products like furniture, vehicles, buildings etc. Up until now the Hangprinter has relied on regular FDM-extruders leaving the project far behind its true potential. Being great for desktop printers, those extruders are not suitable for printers beyond the 1 cubic meter class. Filament extrusion hits the wall in terms of speed, cost and sustainability.
+
+We decided to circumvent this obstacle by developing an affordable pellet extruder, that enables you to print not only with industry standard plastic pellets, but also and mainly with re-granlute plastic made from your plastic waste.
+
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
+<!-- DESIGN DRIVERS -->
+## Design Drivers
 
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
+* Throughput 1-2 kg/hr depending on polymer
+* As light as possible
+* Nozzle sizes up to 10 mm, easy to swap
+* Sturdy base for attachment
+* Enough heating power to cover as many polymers as possible
+* Tolerance for potential foreign objects (dirt, sand, etc.) within the granulate
+* Automatic material transport and dispensing
+* High flow cooling for the print area
 
 ### Prerequisites
 
@@ -112,6 +111,12 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+
+## Benchmark
+
+* Dyze Design Pulsar
+* Mahor XYZ v4
+* Precious Plastic Extruder
 
 ### Installation
 
