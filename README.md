@@ -163,7 +163,7 @@ Distributed under the Creative Commons Attribution-ShareAlike 4.0 International 
 <!-- CONTACT -->
 ## Contact
 
-Atte Linna - [@twitter_handle](https://twitter.com/velmukelmu)
+Atte Linna - [@velmukelmu](https://twitter.com/velmukelmu)
 
 Project Link: [https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder](https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder)
 
