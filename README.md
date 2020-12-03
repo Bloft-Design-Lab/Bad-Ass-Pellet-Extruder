@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![The Bad Ass Pellet Extruder](/images/Bad-Ass-Pellet-Extruder.jpg)
 
 The Hangprinter project by Torbjørn Ludvigsen has developed a promising and affordable concept for a large scale cable-driven 3D-printer, that has the potential to serve as the framework for an entirely new class of 3D-printers, enabling distributed local manufacturing of large end use products like furniture, vehicles, buildings etc. Up until now the Hangprinter has relied on regular FDM-extruders leaving the project far behind its true potential. Being great for desktop printers, those extruders are not suitable for printers beyond the 1 cubic meter class. Filament extrusion hits the wall in terms of speed, cost and sustainability.
 
@@ -107,40 +107,40 @@ The compression screw is the key element of a pellet extruder. It differs from a
 
 The RobotDigg barrel has already a flange with standard Nema 23 attachment holes and it comes with an exchangeable nozzle.
 
-## Benchmark
+## Pre-requisites
 
-* Dyze Design Pulsar
-* Mahor XYZ v4
-* Precious Plastic Extruder
+Certain set of tools is needed to start your own project. Both software and hardware tools.
+We are designing the pellet extruder in Autodesk Fusion 360. Although not open source, you can obtain a [personal, non-commercial, license](https://www.autodesk.com/products/fusion-360/personal) for free from Autodesk. We will provide also exchange file formats if you prefer to use other CAD software.
 
-### Installation
+Among other things you should be prepared to have access to following tools:
+* Drill bench
+* Soldering iron
+* 3D-printer
+* CNC-machine
+* Handtools like allen keys, wrenches, screw drivers, metal saw etc.
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+## A word of warning
 
+The barrel is heated by powerful mica band heaters. This leads to two serious hazards.
+1. The heaters are powered by grid voltage which poses a danger of a lethal electric shock! If you are not trained in connecting electric circuitry, please ask someone with experience.
+2. The heater bands can generate heat up to 450 degree Celcius, which can lead to serious burn injuries or a fire hazard.
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+Please keep this always in mind. Ask always, if in doubt.
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+* 09/2019 - 11/2019 Design, component selection
+* 11/2019 - 12/2020 Manufacturing, assembly
+* 01/2020 - 06/2020 Extrusion testing, iteration
+* 01/2021 - 02/2021 Print testing
 
+See the [open issues](https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/issues) for a list of proposed features (and known issues).
 
+<!-- SOURCE FILES -->
+## Source Files
+
+The Bad Ass Pellet Extruder source files are maintained in the [Autodesk360 cloud]
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -153,33 +153,19 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Creative Commons Attribution-ShareAlike 4.0 International Public License. See `LICENSE` for more information.
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Atte Linna - [@twitter_handle](https://twitter.com/velmukelmu)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
+Project Link: [https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder](https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -196,3 +182,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/bloft-design-lab
+[Product Name Screen Shot]: https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/images/Bad-Ass-Pellet-Extruder.jpg
