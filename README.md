@@ -65,15 +65,15 @@
       <a href="#design-drivers">Design Drivers</a>
       <ul>
         <li><a href="#the-compression-screw">The Compression Screw</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#pre-requisites">Pre-requisites</a></li>
+    <li><a href="#a-word-of-warning">A word of warning</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#source-files">Source Files</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
