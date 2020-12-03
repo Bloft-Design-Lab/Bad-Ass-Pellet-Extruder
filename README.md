@@ -64,7 +64,7 @@
     <li>
       <a href="#design-drivers">Design Drivers</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#the-compression-screw">The Compression Screw</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -88,9 +88,6 @@ The Hangprinter project by Torbjørn Ludvigsen has developed a promising and aff
 
 We decided to circumvent this obstacle by developing an affordable pellet extruder, that enables you to print not only with industry standard plastic pellets, but also and mainly with re-granlute plastic made from your plastic waste.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 <!-- DESIGN DRIVERS -->
 ## Design Drivers
