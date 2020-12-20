@@ -132,7 +132,7 @@ Please keep this always in mind. Ask always, if in doubt.
 ## Roadmap
 
 * 09/2019 - 11/2019 Design, component selection
-* 11/2019 - 12/2020 Manufacturing, assembly
+* 11/2019 - 12/2019 Manufacturing, assembly
 * 01/2020 - 06/2020 Extrusion testing, iteration
 * 01/2021 - 02/2021 Print testing
 
