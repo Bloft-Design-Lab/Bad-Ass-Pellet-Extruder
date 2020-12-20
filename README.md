@@ -138,11 +138,6 @@ Please keep this always in mind. Ask always, if in doubt.
 
 See the [open issues](https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/issues) for a list of proposed features (and known issues).
 
-<!-- SOURCE FILES -->
-## Source Files
-
-The Bad Ass Pellet Extruder source files are maintained in the [Autodesk360 cloud]
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
