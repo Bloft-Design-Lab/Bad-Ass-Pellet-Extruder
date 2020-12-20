@@ -86,7 +86,7 @@
 
 [The Hangprinter project](https://www.hangprinter.org) by Torbjørn Ludvigsen has developed a promising and affordable concept for a large scale cable-driven 3D-printer, that has the potential to serve as the framework for an entirely new class of 3D-printers, enabling distributed local manufacturing of large end use products like furniture, vehicles, buildings etc. Up until now the Hangprinter has relied on regular FDM-extruders leaving the project far behind its true potential. Being great for desktop printers, those extruders are not suitable for printers beyond the 1 cubic meter class. Filament extrusion hits the wall in terms of speed, cost and sustainability.
 
-We decided to circumvent this obstacle by developing an affordable pellet extruder, that enables you to print not only with industry standard plastic pellets, but also and mainly with re-granlute plastic made from your plastic waste.
+We decided to circumvent this obstacle by developing an affordable pellet extruder, that enables you to print not only with industry standard plastic pellets, but also and mainly with re-granulute plastic made from your plastic waste.
 
 
 <!-- DESIGN DRIVERS -->
@@ -132,7 +132,7 @@ Please keep this always in mind. Ask always, if in doubt.
 ## Roadmap
 
 * 09/2019 - 11/2019 Design, component selection
-* 11/2019 - 12/2020 Manufacturing, assembly
+* 11/2019 - 12/2019 Manufacturing, assembly
 * 01/2020 - 06/2020 Extrusion testing, iteration
 * 01/2021 - 02/2021 Print testing
 
