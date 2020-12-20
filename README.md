@@ -44,9 +44,7 @@
     <a href="https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/">View Demo</a>
-    ·
-    <a href="https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/issues">Report Bug</a>
+    <a href="https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/issues">Report Issue</a>
     ·
     <a href="https://github.com/Bloft-Design-Lab/Bad-Ass-Pellet-Extruder/issues">Request Feature</a>
   </p>
